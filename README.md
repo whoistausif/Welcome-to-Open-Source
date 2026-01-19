@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/whoistausif">
+                    <img src="https://avatars.githubusercontent.com/u/127775175?v=4" width="100px;"
+                        alt="Mohammad Tausif" />
+                    <br />
+                    <sub>
+                        <b>Mohammad Tausif </b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
